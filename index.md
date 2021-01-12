@@ -1,10 +1,12 @@
 ### Personal Information
 #### Name: Tingsan Pan
 #### Gender: Male
-#### Email: pants@tju.edu.cn
+#### Institution: College of Intelligence and Computing, Tianjin University
+#### Email: pants@tju.edu.cn 
 
 ### Career Objection
-#### Student
+#### Postgraduate Student
 
 ### Education
-#### 2019-2021 Tianjin Univesity 
+#### 2019-now Tianjin Univesity, Tianjin, China 
+#### 2015-2019 Ocean University of China, Qingdao, China
